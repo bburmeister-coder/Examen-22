@@ -1,6 +1,6 @@
 # Examen práctico - Sistema de pedidos del kiosco
-# Nombre y apellido:
-# Curso:
+# Nombre y apellido:Barbara Burmeister
+# Curso:2do 2da
 #
 # IMPORTANTE:
 # Resolver el programa siguiendo las etapas indicadas en el README.md.
@@ -12,9 +12,14 @@
 # ETAPA 1 - INICIO
 # =========================
 
-# Crear las variables necesarias.
+#Crear las variables necesarias.
 # Crear las listas de productos y precios.
 # Pedir los datos del cliente.
+nombre = input ("cual es tu nombre")
+print ("cual es tu nombre")
+print ("tenes 10000 pesos disponibles")
+print ("los productos disponibles son:")
+
 
 
 # =========================
